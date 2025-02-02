@@ -24,3 +24,9 @@ Mining farms
 
 - Blockchain uses SHA-256 for security, it always give 256 digit output.
 -difficulty of puzzle changes based on hash target.
+
+#Hardware Req
+
+-earlier CPU's were used
+-Later used GPU
+-currently using ASIC
