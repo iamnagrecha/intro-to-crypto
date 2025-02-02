@@ -22,4 +22,5 @@ Mining farms
 - users trying to sole the puzzle are called miners.
 - That puzzle is called proof of work.
 
-- Blockchain uses SHA-256 for security, it always give 256 digit output
+- Blockchain uses SHA-256 for security, it always give 256 digit output.
+-difficulty of puzzle changes based on hash target.
