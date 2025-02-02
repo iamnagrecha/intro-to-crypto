@@ -2,3 +2,24 @@ official currency of liberland
 mining is time-comsuming
 Mining farms
 21 million market cap
+
+#History
+- money transfer without any bank, government etc.
+- can be used for all transactions.
+- created in 2008 by santoshi Nakamoto
+
+# Advantages
+- fast
+- decentralized
+- Accessible to Public
+-low transaction fees
+
+#Blockchain
+- txn stored in blocks
+
+#Bitcoin Mining
+- process of verifyinh btcoin txn
+- users trying to sole the puzzle are called miners.
+- That puzzle is called proof of work.
+
+- Blockchain uses SHA-256 for security, it always give 256 digit output
