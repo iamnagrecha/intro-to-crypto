@@ -24,4 +24,20 @@ proof of work <-> proof of stake
 
 profit depends upon cost of electricity.
 
+# Ethereum 2.0
+transitions from proof of work to proof of stake
+
+Ethereum vs Bitcoin
+
+E is platform to build smart contracts
+B is a form of Digital currency.
+
+E uses Solidity
+B uses C++
+
+E is faster, 30 txn / sec
+B is slow, 5 txn / sec
+
+E is unlimited
+B is limited to 21 million
 
