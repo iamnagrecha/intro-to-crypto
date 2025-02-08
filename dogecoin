@@ -10,3 +10,8 @@
   Mining innvoles solving mathematical solutions of txns
 
     - Dogecoin vs Bitcoin Mining
+- doge uses Scrypt algo, which is simpler than Bitcoin's SHA-256
+
+Pool Mining Vs Solo Mining
+
+- in Pool rewatd is shared as opppsed to solo where its given and mined to a sing;e person
